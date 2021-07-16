@@ -1,0 +1,7 @@
+organization=yinavismassiel
+projectKey=yinavismassiel_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=yinavismassiel_ProyectoJavaMaven
+ceTaskId=AXqxWKgd97rUou7ewdPl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqxWKgd97rUou7ewdPl
